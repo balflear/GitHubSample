@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="item_list_icon_width">60dp</dimen>
+    <dimen name="item_list_icon_height">60dp</dimen>
+    <dimen name="repository_card_height">150dp</dimen>
+    <dimen name="repository_card_radius">15dp</dimen>
+    <dimen name="repository_card_elevation">10dp</dimen>
+</resources>
